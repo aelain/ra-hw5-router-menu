@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom';
-// проверить активный класс
+
 export default function Menu() {
   return (
     <nav className="menu">
